@@ -332,4 +332,6 @@ function formata_valor(cur,len)
    };
   // document.form.t4.value = "TESTE";
    //return 'ok';
+   // exemplo de uso
+   // <input type="text" onkeypress="formata_valor(this, 15);" />
 }
